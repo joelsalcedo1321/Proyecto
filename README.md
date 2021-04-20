@@ -1,2 +1,4 @@
+La idea es desarrollar una aplicación dirigida a los estudiantes del programa de Administración en salud, el cual, el objetivo es que consulten las normativas correspondientes a cada curso observado, un ejemplo a esto: el curso de SGSSS, una de las normas principales es la ley 100 de 1993 o el curso de habilitación en salud que contiene el decreto 760 de 2016 del sistema obligatoria de garantía de calidad, entre otros y así. La interacción será una búsqueda en una base de datos. Los roles principales son: administradores y estudiantes. El sistema que se desarrollará para el servidor es un BAKC-END dirigido a los administradores, por el cual, su función es la organización de las normas pertenecientes a cada curso y su información correspondiente y un FRONT-END para los usuarios -estudiantes- que es la interfaz para su búsqueda. Se utilizará Express y Vue.js_ node.js
+
 Integrantes
 -Maira Alejandra Martinez Avila (Institucional)(Desarrollador Secundario)
