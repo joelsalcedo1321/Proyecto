@@ -2,3 +2,4 @@ La idea es desarrollar una aplicación dirigida a los estudiantes del programa d
 
 Integrantes
 -Maira Alejandra Martinez Avila (Institucional)(Desarrollador Secundario)
+-Joel David Salcedo Ojeda (Institucional)(Desarrollador Secundario)
